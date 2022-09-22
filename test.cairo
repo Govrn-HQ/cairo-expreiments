@@ -4,4 +4,3 @@ func main() {
     [ap] = [ap - 2] + [ap - 1], ap++;
     ret;
 }
-
