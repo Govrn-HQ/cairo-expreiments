@@ -1,0 +1,4 @@
+airo-lang==0.10.0
+cdsa==0.18.0
+astecdsa==2.2.3
+sympy==1.11.1
